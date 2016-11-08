@@ -2,7 +2,7 @@
 
 In order to open the program, run process.exe
 
-When the program is executed, the program prompts a menu: (1)Deadlock Prevention, (2)Deadlock Avoidance, and and exit.
+When the program is executed, the program prompts a menu: (1)Deadlock Prevention, (2)Deadlock Avoidance, and an exit.
 
 The program then asks for an input/choice.
 
